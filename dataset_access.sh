@@ -1,6 +1,7 @@
 # Nick Weda
 # Dependencies:
-# Python, venv package, Kaggle API Key downloaded from Kaggle Website and placed into your home directory
+# Python, venv package, 
+# Kaggle API Key downloaded from Kaggle Website and placed into your home directory
 
 # Setup the Python Virtual Environment.
 cd
