@@ -1,2 +1,1 @@
-# 542-Semester-Project
-542 Semester Project - Diabetic Retinopathy
+# COMP 542: Machine Learning - Semester Project
